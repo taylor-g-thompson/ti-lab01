@@ -1,10 +1,6 @@
 //*****************************************************************************
-// purpose: driver file for CSE 4714 Lab 1
-// version: Spring 2022
-// author: Joe Crumpton / Ed Swan
-//
-// Speak to the TA or Instructor if you think that you need to modify this file.
-//
+// purpose: driver file for Lab 1
+// version: Spring 2023
 //*****************************************************************************
 #ifdef _MSC_VER
 #define _CRT_SECURE_NO_WARNINGS
