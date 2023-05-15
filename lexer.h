@@ -1,10 +1,5 @@
 //*****************************************************************************
 // purpose: header file for Lab 1 assignment, defines tokens
-// created: 01-21-2021
-//  author: Joe Crumpton / Ed Swan
-//
-// Speak to the TA or Instructor if you think that you need to modify this file.
-//
 //*****************************************************************************
 
 #ifndef LEXER_H
