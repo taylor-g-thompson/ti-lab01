@@ -1,10 +1,7 @@
 /*********************************************************************
-  Name: Taylor Thompson             NetID: tgt88
-  Course: CSE 4714              
+  Name: Taylor Thompson            
   Lab: 01 - Lexical Analyzer 
-  Purpose of File: Contains the ....
-
-
+  Purpose of File: Contains the lexical rules.
 This is the file that you should modify for Lab 1.
 **********************************************************************/
 
